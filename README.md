@@ -30,8 +30,9 @@ print("Hello, world!")
 - :mailbox: Как связаться с нами: [![Telegram Badge](https://img.shields.io/badge/-Channel_YearMSR-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yearmsr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killbrain.ru@gmail.com)
 
-<!--разделитель -->
---- 
+##  Значки GitHub
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 <!--таблица с скилами -->
 ## Наши Скиллы 
@@ -86,21 +87,34 @@ print("Hello, world!")
 
 ## GitHub Статистика 
 
-<!-- GitHub stats 1 вверху -->
+<!-- GitHub stats 1 и 2 вверху -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="GitHub stats 2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=tokyonight" alt="GitHub Stats 1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=merko" alt="GitHub Stats 2" />
 </p>
 
-<!-- GitHub stats 2 по центру -->
+<!-- GitHub stats 3 и Статистика самых часто используемых языков по центру -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=merko" alt="GitHub stats 1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub Stats 3" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://streak-stats.demolab.com/?user=yearmsr&theme=dark" alt="GitHub streak stats" />
+  </a>
 </p>
 
-<!-- GitHub stats 3 снизу -->
+<!-- GitHub Streak Stats снизу -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub stats 3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearmsr&bg_color=1a1b27&title_color=fdbb2d&text_color=ffffff" alt="Top Langs" />
 </p>
+
 
 <br/>  
+
+<!-- баннер хвастунишки -->
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/yearmsr/contributions?format=svg&private=false)
+
+## Наши Трофеи
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yearmsr&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
