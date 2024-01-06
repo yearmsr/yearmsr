@@ -30,6 +30,10 @@ print("Hello, world!")
 - :mailbox: Как связаться с нами: [![Telegram Badge](https://img.shields.io/badge/-Channel_YearMSR-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yearmsr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killbrain.ru@gmail.com)
 
+<!-- фоловеры -->
+<a href="https://www.github.com/yearmsr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yearmsr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ##  Значки GitHub
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
@@ -93,15 +97,15 @@ print("Hello, world!")
   <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=merko" alt="GitHub Stats 2" />
 </p>
 
-<!-- GitHub stats 3 и Статистика самых часто используемых языков по центру -->
+<!-- GitHub stats 3 и 4 по центру -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub Stats 3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub Stats 3" width="312" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://streak-stats.demolab.com/?user=yearmsr&theme=dark" alt="GitHub streak stats" />
   </a>
 </p>
 
-<!-- GitHub Streak Stats снизу -->
+<!-- GitHub Stats 5 снизу -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearmsr&bg_color=1a1b27&title_color=fdbb2d&text_color=ffffff" alt="Top Langs" />
 </p>
