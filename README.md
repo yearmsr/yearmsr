@@ -10,7 +10,7 @@ print("Hello, world!")
 
 <!--текст после кода -->
 <p>Мы Русскоязычная команда программистов <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-  базурующаяся на территории России
+  базирующаяся на территории России
 <!--флаг рф --> 
 <img
   src="https://flagcdn.com/ru.svg"
