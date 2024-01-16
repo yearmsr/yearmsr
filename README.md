@@ -97,15 +97,14 @@ src="https://img.shields.io/github/followers/yearmsr?logo=github&style=for-the-b
   <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=merko" alt="GitHub Stats 2" />
 </p>
 
-<!-- GitHub stats 3 и 4 по центру -->
+<!-- GitHub stats 3 по центру -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub Stats 3" width="312" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://streak-stats.demolab.com/?user=yearmsr&theme=dark" alt="GitHub streak stats" />
+  <a href="https://github.com/yaermsr/github-readme-stats">
   </a>
 </p>
 
-<!-- GitHub Stats 5 снизу -->
+<!-- GitHub Stats 4 снизу -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearmsr&bg_color=1a1b27&title_color=fdbb2d&text_color=ffffff" alt="Top Langs" />
 </p>
