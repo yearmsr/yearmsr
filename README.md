@@ -87,30 +87,16 @@ src="https://img.shields.io/github/followers/yearmsr?logo=github&style=for-the-b
 </td></tr></table>  
 
 <!--статистика -->
-<br/>  
+<br />
 
-## GitHub Статистика 
+## GitHub Статистика
 
-<!-- GitHub stats 1 и 2 вверху -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=tokyonight" alt="GitHub Stats 1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=merko" alt="GitHub Stats 2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&show_icons=true&theme=tokyonight" alt="GitHub Stats 1" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearmsr&bg_color=1a1b27&title_color=fdbb2d&text_color=ffffff" alt="Top Langs" style="height: 200px;">
 </p>
 
-<!-- GitHub stats 3 по центру -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yearmsr&hide=stars,commits,prs,issues,contribs&theme=gruvbox" alt="GitHub Stats 3" width="312" />
-  <a href="https://github.com/yaermsr/github-readme-stats">
-  </a>
-</p>
-
-<!-- GitHub Stats 4 снизу -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yearmsr&bg_color=1a1b27&title_color=fdbb2d&text_color=ffffff" alt="Top Langs" />
-</p>
-
-
-<br/>  
+<br /> 
 
 <!-- баннер хвастунишки -->
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/yearmsr/contributions?format=svg&private=false)
