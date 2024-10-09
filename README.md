@@ -33,6 +33,8 @@ print("Hello, world!")
 <!-- фоловеры -->
 <a href="https://www.github.com/yearmsr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yearmsr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<!-- просмотры readme.md -->
+<img src="https://komarev.com/ghpvc/?username=yearmsr&style=flat-square&color=blue" alt=""/>
 
 ##  Значки GitHub
 
